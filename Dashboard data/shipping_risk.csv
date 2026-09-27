@@ -1,0 +1,5 @@
+Shipping Mode,late_delivery_rate,avg_shipping_days_real,avg_shipping_days_scheduled,order_count,pct_of_total_orders
+First Class,95.56354916067147,2.0,1.0,21684,15.4
+Second Class,76.8201754385965,3.9953216374269007,2.0,27360,19.5
+Same Day,44.73441412943192,0.46553314880717017,0.0,7587,5.4
+Standard Class,38.18086425641515,3.9978775159782507,4.0,83864,59.7

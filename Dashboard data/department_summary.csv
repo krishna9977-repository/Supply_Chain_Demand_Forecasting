@@ -1,0 +1,7 @@
+,champion_model,champion_wmape,naive_wmape,error_reduction_pct,avg_weekly_demand,safety_stock_units,safety_stock_pct_of_demand,reorder_point_units,late_delivery_risk_pct,cancellation_rate_pct,est_annual_dollar_savings
+Apparel,XGBoost,4.3,6.12,29.74,668.1,266.0,39.8,598.4,54.8,4.32,64.25
+Fan Shop,Seasonal Naive,5.39,7.07,23.76,732.7,293.7,40.1,656.7,54.9,4.08,159.82
+Fitness,Prophet,29.97,35.57,15.74,43.6,25.5,58.6,47.2,55.8,4.26,19.13
+Footwear,Chronos,9.72,12.75,23.76,305.0,126.9,41.6,277.9,55.1,4.37,56.71
+Golf,Chronos,6.46,7.86,17.81,695.3,278.8,40.1,623.0,54.7,4.31,41.1
+Outdoors,Chronos,11.01,16.52,33.35,190.2,81.3,42.7,176.4,55.8,4.23,34.64

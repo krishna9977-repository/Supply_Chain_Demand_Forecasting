@@ -1,0 +1,108 @@
+{
+  "department_data": {
+    "Apparel": {
+      "champion_model": "XGBoost",
+      "champion_wmape": 4.3,
+      "naive_wmape": 6.12,
+      "error_reduction_pct": 29.74,
+      "avg_weekly_demand": 668.1,
+      "safety_stock_units": 266.0,
+      "safety_stock_pct_of_demand": 39.8,
+      "reorder_point_units": 598.4,
+      "late_delivery_risk_pct": 54.8,
+      "cancellation_rate_pct": 4.32,
+      "est_annual_dollar_savings": 64.25
+    },
+    "Fan Shop": {
+      "champion_model": "Seasonal Naive",
+      "champion_wmape": 5.39,
+      "naive_wmape": 7.07,
+      "error_reduction_pct": 23.76,
+      "avg_weekly_demand": 732.7,
+      "safety_stock_units": 293.7,
+      "safety_stock_pct_of_demand": 40.1,
+      "reorder_point_units": 656.7,
+      "late_delivery_risk_pct": 54.9,
+      "cancellation_rate_pct": 4.08,
+      "est_annual_dollar_savings": 159.82
+    },
+    "Fitness": {
+      "champion_model": "Prophet",
+      "champion_wmape": 29.97,
+      "naive_wmape": 35.57,
+      "error_reduction_pct": 15.74,
+      "avg_weekly_demand": 43.6,
+      "safety_stock_units": 25.5,
+      "safety_stock_pct_of_demand": 58.6,
+      "reorder_point_units": 47.2,
+      "late_delivery_risk_pct": 55.8,
+      "cancellation_rate_pct": 4.26,
+      "est_annual_dollar_savings": 19.13
+    },
+    "Footwear": {
+      "champion_model": "Chronos",
+      "champion_wmape": 9.72,
+      "naive_wmape": 12.75,
+      "error_reduction_pct": 23.76,
+      "avg_weekly_demand": 305.0,
+      "safety_stock_units": 126.9,
+      "safety_stock_pct_of_demand": 41.6,
+      "reorder_point_units": 277.9,
+      "late_delivery_risk_pct": 55.1,
+      "cancellation_rate_pct": 4.37,
+      "est_annual_dollar_savings": 56.71
+    },
+    "Golf": {
+      "champion_model": "Chronos",
+      "champion_wmape": 6.46,
+      "naive_wmape": 7.86,
+      "error_reduction_pct": 17.81,
+      "avg_weekly_demand": 695.3,
+      "safety_stock_units": 278.8,
+      "safety_stock_pct_of_demand": 40.1,
+      "reorder_point_units": 623.0,
+      "late_delivery_risk_pct": 54.7,
+      "cancellation_rate_pct": 4.31,
+      "est_annual_dollar_savings": 41.1
+    },
+    "Outdoors": {
+      "champion_model": "Chronos",
+      "champion_wmape": 11.01,
+      "naive_wmape": 16.52,
+      "error_reduction_pct": 33.35,
+      "avg_weekly_demand": 190.2,
+      "safety_stock_units": 81.3,
+      "safety_stock_pct_of_demand": 42.7,
+      "reorder_point_units": 176.4,
+      "late_delivery_risk_pct": 55.8,
+      "cancellation_rate_pct": 4.23,
+      "est_annual_dollar_savings": 34.64
+    }
+  },
+  "shipping_mode_risk": {
+    "First Class": {
+      "late_delivery_rate": 95.56,
+      "avg_shipping_days_real": 2.0,
+      "avg_shipping_days_scheduled": 1.0,
+      "order_count": 21684
+    },
+    "Same Day": {
+      "late_delivery_rate": 44.73,
+      "avg_shipping_days_real": 0.47,
+      "avg_shipping_days_scheduled": 0.0,
+      "order_count": 7587
+    },
+    "Second Class": {
+      "late_delivery_rate": 76.82,
+      "avg_shipping_days_real": 4.0,
+      "avg_shipping_days_scheduled": 2.0,
+      "order_count": 27360
+    },
+    "Standard Class": {
+      "late_delivery_rate": 38.18,
+      "avg_shipping_days_real": 4.0,
+      "avg_shipping_days_scheduled": 4.0,
+      "order_count": 83864
+    }
+  }
+}
