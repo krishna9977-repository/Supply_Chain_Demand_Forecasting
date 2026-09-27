@@ -3,7 +3,7 @@
 A department-level demand forecasting system built on the DataCo Smart Supply Chain dataset, combining multi-model forecasting, empirical inventory optimization, logistics risk analysis, and a grounded AI assistant — all delivered through an interactive dashboard.
 
 ## 🔗 Live Dashboard
-[Add your Streamlit Cloud link here once deployed]
+
 
 ## 📊 Project Overview
 
@@ -38,7 +38,7 @@ This project forecasts weekly product demand across 6 departments, calculates da
 5. **Ask a Question** — grounded AI assistant answering questions using only the project's real data
 
 ## 🖼️ Screenshots
-[Add screenshots here]
+
 
 ## ⚠️ Known Limitations
 - Analysis period restricted to Jan 2015–Mar 2017 due to a data completeness issue discovered during EDA (documented in the notebook).
