@@ -3,7 +3,7 @@
 A department-level demand forecasting system built on the DataCo Smart Supply Chain dataset, combining multi-model forecasting, empirical inventory optimization, logistics risk analysis, and a grounded AI assistant — all delivered through an interactive dashboard.
 
 ## 🔗 Live Dashboard
-
+https://supplychaindemandforecasting-6j3zaaxalujfzj3mcsr9gi.streamlit.app/
 
 ## 📊 Project Overview
 
