@@ -41,6 +41,14 @@ This project forecasts weekly product demand across 6 departments, calculates da
 <img width="1900" height="293" alt="Screenshot 2026-09-30 134834" src="https://github.com/user-attachments/assets/86e2e62b-59af-4739-a0f7-3b7d9d14e7c9" />
 <img width="1452" height="760" alt="Screenshot 2026-09-30 134859" src="https://github.com/user-attachments/assets/bc082757-63cd-4169-addd-e6d28fb15ffc" />
 <img width="1462" height="538" alt="Screenshot 2026-09-30 134911" src="https://github.com/user-attachments/assets/c2827de6-8927-4136-a497-3344e408fb50" />
+<img width="1902" height="522" alt="Screenshot 2026-09-30 135258" src="https://github.com/user-attachments/assets/043f390e-8ecb-4f0e-bcd1-378623cbe11d" />
+<img width="1493" height="832" alt="Screenshot 2026-09-30 135323" src="https://github.com/user-attachments/assets/32847b61-7c7b-4385-b309-995f29e9addc" />
+<img width="1445" height="477" alt="Screenshot 2026-09-30 135334" src="https://github.com/user-attachments/assets/5629b43f-73af-4b84-a4d6-fd6afe40cb80" />
+<img width="1487" height="851" alt="Screenshot 2026-09-30 135419" src="https://github.com/user-attachments/assets/85820f10-6673-4b38-bad1-68f49cec8873" />
+<img width="1897" height="800" alt="Screenshot 2026-09-30 135448" src="https://github.com/user-attachments/assets/fedaf811-3fee-40be-8bf7-ed28c35c1a09" />
+<img width="1893" height="822" alt="Screenshot 2026-09-30 135629" src="https://github.com/user-attachments/assets/aebe56a0-f1d9-4c14-9ed4-96df38cddfb1" />
+
+
 
 ## ⚠️ Known Limitations
 - Analysis period restricted to Jan 2015–Mar 2017 due to a data completeness issue discovered during EDA (documented in the notebook).
