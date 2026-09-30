@@ -38,7 +38,9 @@ This project forecasts weekly product demand across 6 departments, calculates da
 5. **Ask a Question** — grounded AI assistant answering questions using only the project's real data
 
 ## 🖼️ Screenshots
-
+<img width="1900" height="293" alt="Screenshot 2026-09-30 134834" src="https://github.com/user-attachments/assets/86e2e62b-59af-4739-a0f7-3b7d9d14e7c9" />
+<img width="1452" height="760" alt="Screenshot 2026-09-30 134859" src="https://github.com/user-attachments/assets/bc082757-63cd-4169-addd-e6d28fb15ffc" />
+<img width="1462" height="538" alt="Screenshot 2026-09-30 134911" src="https://github.com/user-attachments/assets/c2827de6-8927-4136-a497-3344e408fb50" />
 
 ## ⚠️ Known Limitations
 - Analysis period restricted to Jan 2015–Mar 2017 due to a data completeness issue discovered during EDA (documented in the notebook).
